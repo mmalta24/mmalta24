@@ -18,7 +18,7 @@ During my studies, I gained proficiency in a wide array of technologies, includi
 * Web Development: HTML, CSS, JavaScript, and frameworks such as VueJS and React Native.
 * Backend Development: Node.js, Express, and databases like MongoDB and SQL.
 * Software Development Principles: Object-oriented programming (OOP), agile methodologies, and version control with Git.
-* Testing and QA: Automated testing with Selenium and JUnit, performance testing, and continuous integration/continuous deployment (CI/CD) practices.
+* Testing and QA: Automated testing with Selenium and Jest, performance testing, and continuous integration/continuous deployment (CI/CD) practices.
 
 ## Technology Stack 🌐
 
