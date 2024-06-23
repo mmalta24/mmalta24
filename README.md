@@ -17,4 +17,4 @@ As a QA professional, I am committed to continuous learning and staying updated 
 
 ## GitHub Stats 📈
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mmalta24\&show_icons=true\&theme=transparent#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmalta24\&show_icons=true\&theme=transparent)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mmalta24\&show_icons=true\&theme=transparent#gh-dark-mode-only)                     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmalta24\&show_icons=true\&theme=transparent)
