@@ -14,3 +14,7 @@ During my studies, I gained proficiency in a wide array of technologies, includi
 These skills have allowed me to effectively ensure the quality and performance of web applications. My technical expertise in both frontend and backend development, combined with a strong focus on testing and quality assurance, enables me to identify potential issues early and contribute to delivering robust and user-friendly software solutions.
 
 As a QA professional, I am committed to continuous learning and staying updated with the latest industry trends and tools. My GitHub profile showcases my projects and contributions, reflecting my dedication to quality and my passion for technology.
+
+## GitHub Stats
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
