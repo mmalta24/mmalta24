@@ -28,11 +28,11 @@ During my studies, I gained proficiency in a wide array of technologies, includi
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vue-dot-js&logoColor=%234FC08D"/>
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
