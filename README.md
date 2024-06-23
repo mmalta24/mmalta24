@@ -40,14 +40,6 @@ During my studies, I gained proficiency in a wide array of technologies, includi
 
 ## GitHub Stats 📈
 
-<p align="center">
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mmalta24\&show_icons=true\&theme=transparent#gh-dark-mode-only)
-</p>
-
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmalta24\&show_icons=true\&theme=transparent\&layout=donut)
-</p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=mmalta24&theme=transparent">
-</p> 
