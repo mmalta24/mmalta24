@@ -15,6 +15,6 @@ These skills have allowed me to effectively ensure the quality and performance o
 
 As a QA professional, I am committed to continuous learning and staying updated with the latest industry trends and tools. My GitHub profile showcases my projects and contributions, reflecting my dedication to quality and my passion for technology.
 
-## GitHub Stats
+## GitHub Stats 📈
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mmalta24\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
